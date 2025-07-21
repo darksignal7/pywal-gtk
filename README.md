@@ -1,4 +1,4 @@
-# A TRANSLUCENT GTK THEME WITH PYWAL COLOR SUPPPORT
+# A Translucent GTK Theme
 
 # Usage: 
 - Move gtk.css file to /home/username/.config/gtk 4.0
